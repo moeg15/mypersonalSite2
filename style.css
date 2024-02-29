@@ -35,9 +35,10 @@ header{
 }
 
 
-#img1{
+.img1{
     height: 30vh;
     margin-right: 10px;
+    margin-left: 10px;
 }
 .row{
     display: flex;
